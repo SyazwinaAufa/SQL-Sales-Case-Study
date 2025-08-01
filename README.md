@@ -14,8 +14,7 @@ Project ini merupakan bagian dari portofolio Data Analyst saya.
   - Product – Data produk (PK: ProductID)
 
 
-🎯 Tujuan Analisis
-Mengidentifikasi data fact, product, dan location untuk mendapatkan insight yang berguna seperti:
+🎯 Tujuan Analisis: Mengidentifikasi data fact, product, dan location untuk mendapatkan insight yang berguna seperti:
 1. Mengidentifikasi detail produk sesuai dengan type produk tertentu
 2. Mengidentifikasi detail total expenses yang lebih besar dari $40
 3. Mengidentifikasi total penjualan di kode area tertentu
