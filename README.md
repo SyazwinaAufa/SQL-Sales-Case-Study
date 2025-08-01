@@ -9,9 +9,9 @@ Project ini merupakan bagian dari portofolio Data Analyst saya.
 
 - *Sumber Dataset:* [Kaggle - SQL Case Study for Data Analyst](https://www.kaggle.com/datasets/shravyashetty1/sql-basic-case-study)
 - Database terdiri dari 3 main table: Fact, Location. and Product
-  - Fact – Data penjualan (ProductID dan AreaCode)
-  - Location – Data lokasi (AreaCode)
-  - Product – Data produk (ProductID)
+  - Fact – Data penjualan (PK: ProductID dan AreaCode)
+  - Location – Data lokasi (PK: AreaCode)
+  - Product – Data produk (PK: ProductID)
 
 
 🎯 Tujuan Analisis
