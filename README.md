@@ -33,8 +33,7 @@ Beberapa insight yang ditemukan:
 - Nilai maksimum Cost of Good Sold (COGS) adalah 364
 - Terdapat 20 state yang ada di tabel Location
 
-Detail query dan analisis bisa dilihat di notebook:  
-➡️ [*sales_analysis.ipynb*](sales_analysis.ipynb)
+
 
 
 
